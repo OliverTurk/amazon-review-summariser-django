@@ -1,0 +1,5 @@
+env/
+app/*.sqlite3
+app/db.sqlite3
+app/reviewsummariser/.env
+app/reviewsummariser/__pycache__

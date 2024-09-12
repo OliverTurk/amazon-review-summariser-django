@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "./env/bin/python",
+    "python.analysis.extraPaths": [
+        "./env/lib/python3.12/site-packages"
+    ]
+}
