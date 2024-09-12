@@ -10,7 +10,7 @@ def get_reviews(url):
     "Accept-Encoding": "gzip, deflate, br",
     "Cache-Control": "max-age=0",
     "Connection": "keep-alive",
-    "User-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15",
+    "User-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0",
     }
     
     response = requests.get(url, headers=headers)
